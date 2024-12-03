@@ -1,0 +1,28 @@
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+    font-size: 50px;
+    
+}
+
+body{
+    background-color:black;
+    text-align: center;
+    padding-left: 50px;
+
+}
+
+button{
+    cursor: pointer;
+}
+
+.carousel img{
+    width: 650px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.carousel{
+    margin-bottom: auto;
+    max-width: 600px;
+}
