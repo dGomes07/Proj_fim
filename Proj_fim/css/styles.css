@@ -1,0 +1,37 @@
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+    font-size: 50px;
+    
+}
+
+body{
+    text-align: center;
+    padding: 20px;
+
+}
+
+button{
+    cursor: pointer;
+}
+
+.carousel img{
+    width: 650px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.carousel{
+    margin-bottom: auto;
+    max-width: 600px;
+}
+
+#modalImage{
+    width: 1800px;
+    height: 1300px;
+    
+}
+
+.carousel-control-prev,.carousel-control-next{
+    color: rgba(68, 0, 255, 0.308);
+}
