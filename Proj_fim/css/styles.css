@@ -35,3 +35,15 @@ button{
 .carousel-control-prev,.carousel-control-next{
     color: rgba(68, 0, 255, 0.308);
 }
+
+#mod_img{
+    max-width: 900px;
+    max-height: 700px;
+    width: 100%;
+    height: auto;
+}
+
+.modal-dialog{
+    max-width: 95%;
+    width:auto;
+}
